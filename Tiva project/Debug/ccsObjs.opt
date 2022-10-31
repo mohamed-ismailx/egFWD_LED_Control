@@ -1,0 +1,11 @@
+"./Button.obj"
+"./GPIO.obj"
+"./LED.obj"
+"./NVIC.obj"
+"./System_Control.obj"
+"./Timer.obj"
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
+-l"/home/oliver/embedded/tivaware/driverlib/ccs/Debug/driverlib.lib"
